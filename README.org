@@ -11,7 +11,7 @@ Not dağılımı: (2 vize + 2 ödev + Proje + 4 lab) = %60, final = %40
 Soru: Verilen bir n sayısı için 1'den n'e kadar olan asal sayıları bulan
 algoritmayı tasarlayın.
 
-C kodu: ([[https://github.com/haliluluoglu/YTU-CE/blob/C-Language/Veri%2520Yap%25C4%25B1lar%25C4%25B1%2520ve%2520Algoritmalar%25C4%25B1/primeNumber.c][Halil İbrahim Uluoğlu]])
+C kodu: ([[https://github.com/haliluluoglu/YTU-CE/blob/C-Language/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar%C4%B1/primeNumber.c][Halil İbrahim Uluoğlu]])
 #+begin_src C
   #include <stdio.h>
   #include <math.h>
