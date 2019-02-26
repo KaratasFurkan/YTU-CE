@@ -74,10 +74,9 @@ Kitap: [[https://theswissbay.ch/pdf/Book/Introduction%2520to%2520the%2520theory%
 ** 1. Ders
 * Mobil Programlamaya Giriş
 ** 1. Ders
-
 [[https://docs.google.com/viewer?url=https%253A%252F%252Fwww.ce.yildiz.edu.tr%252Fpersonal%252Famacg%252Ffile%252F34465%252F18_19_Syllabus_MPG.pdf][Syllabus]]
 
-2018 Trendleri:
+*** 2018 Trendleri:
 - Augmented Reality and Virtual Reality
 - Mobile Payment
 - Blockchain
@@ -93,7 +92,6 @@ Kitap: [[https://theswissbay.ch/pdf/Book/Introduction%2520to%2520the%2520theory%
 - Design Approach
 - Cross Platform tools
 ** 2. Ders (yazan: Bilal Güvenç)
-
 *** Pervasive Computing (Ubiquitous Computing)
 - Ubiquitous Computing is a concept in software engineering and computer science where computing is made to appear everwhere and anywhere.
 - In constrast to desktop computing, ubiquitous computing can occur using any device, in any location and in any format.
