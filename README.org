@@ -203,14 +203,14 @@ Mobile Application Development Constraints
 
 | Decision Criteria          | Native                                  | Mobile Web         | Cross-Platform                                     |
 |----------------------------+-----------------------------------------+--------------------+----------------------------------------------------|
-| Quality of user experience | Excellent                               | Very Good          | Not as good as Native                              |
-| Quality of apps            | High                                    | Medium             | Medium to low                                      |
-| Potential users            | Limited to a particular mobile platform | Maximum            | Large as it reaches to users of different platform |
-| App development cost       | High                                    | Low                | Medium to low                                      |
-| Security of app            | Excellent                               | Depends on browser | Not good                                           |
-| Supportability             | Complex                                 | Simple             | Medium to complex                                  |
-| Ease of updating           | Complex                                 | Simple             | Medium to complex                                  |
-| Time-to-market             | High                                    | Medium             | Short                                              |
+| Quality of user experience | *Excellent*                             | Very Good          | Not as good as Native                              |
+| Quality of apps            | *High*                                  | Medium             | Medium to low                                      |
+| Potential users            | Limited to a particular mobile platform | *Maximum*          | Large as it reaches to users of different platform |
+| App development cost       | High                                    | *Low*              | Medium to low                                      |
+| Security of app            | *Excellent*                             | Depends on browser | Not good                                           |
+| Supportability             | Complex                                 | *Simple*           | Medium to complex                                  |
+| Ease of updating           | Complex                                 | *Simple*           | Medium to complex                                  |
+| Time-to-market             | High                                    | Medium             | *Short*                                            |
 
 *** Requirements of a Cross-Platform framework
 - Multiple mobile platform support
@@ -222,6 +222,18 @@ Mobile Application Development Constraints
 - Open source
 - Backend Communication
 - Rich user interface
+*** App Components
+Essential Building Blocks
+- *Activities* - uygulamalarda gözüken sayfalar
+- *Services* - arka planda çalışan işlemler
+- *Broadcast Receivers* - interruptlardır, gelen aramalar, düşük şarjda kameranın kapanması
+- *Content Providers* - kalıcı verilerin kaydedilmesi, alınması, yönetilmesi sağlanır
+- Intens (Activating Components) - yukarıdaki dörtlü intentler ile çalışmaya başlar
+- AndroidManifest File - uygulama ile ilgili bilgiler, sistem gereksinimleri, min. os versiyonu
+- App Resources - resimler, animasyonlar, tasarımlar, renkler, yazılar (strings)
+- Device Configuration Changes - ekranın yan döndürülmesi, aktivitenin kapanması, fragment
+- App Permissions - … permissions, runtime permissions
+
 * Yöneylem Araştırması
 ** 1. Ders
 * Satış Yönetimi (Seçmeli 3)
